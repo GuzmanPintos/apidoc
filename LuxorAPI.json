@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "description": "# Introduction\n  This is Luxor's API Documentation. The publicly available read-only Luxor API uses HTTP GET requests with JSON arguments and JSON responses. \n  Luxor APIs don't require Authentication. Anyone is free to consume the data, however, keep in mind that the API pull are rate-limited. \n  If you are planning to build something, find bugs or have questions please reach out to us at **hello@luxor.tech**.\n\n # Authentication\nLuxor uses OAuth2 - an open protocol to allow secure authorization in a simple\nand standard method from web, mobile and desktop applications. (Coming soon)\n",
+    "description": "# A Introduction\n  This is Luxor's API Documentation. The publicly available read-only Luxor API uses HTTP GET requests with JSON arguments and JSON responses. \n  Luxor APIs don't require Authentication. Anyone is free to consume the data, however, keep in mind that the API pull are rate-limited. \n  If you are planning to build something, find bugs or have questions please reach out to us at **hello@luxor.tech**.\n\n # Authentication\nLuxor uses OAuth2 - an open protocol to allow secure authorization in a simple\nand standard method from web, mobile and desktop applications. (Coming soon)\n",
     "version": "1.0.0",
     "title": "Luxor Switch API Documentation",
     "termsOfService": "https://mining.luxor.tech/en/tos",
